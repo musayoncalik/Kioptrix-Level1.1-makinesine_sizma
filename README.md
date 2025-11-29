@@ -53,6 +53,7 @@ Bu çalışmada izlenen adımlar şunlardır:
 
 ## 📸 Ekran Görüntüleri
 
+
 ### 1. Nmap Tarama Sonuçları
 Hedef makinedeki açık portların (TCP 22, 80, 139, 443) tespit edildiği an.
 
@@ -60,11 +61,29 @@ Hedef makinedeki açık portların (TCP 22, 80, 139, 443) tespit edildiği an.
 <img width="570" height="395" alt="image" src="https://github.com/user-attachments/assets/412d420d-a9fc-463e-bc3a-e4c98c92808b" />
 )
 
+
+
+
+
+
+
+
+
+
 ### 2. Metasploit Ayarları ve Exploit Çalıştırma
 Samba trans2open exploit'inin seçilmesi ve `run` komutu ile saldırının başlatılması.
 
 ![Metasploit Options](<img width="370" height="355" alt="image" src="https://github.com/user-attachments/assets/68ac2a3a-64b5-446a-8048-d212394af53d" />
 )
+
+
+
+
+
+
+
+
+
 
 ### 3. Root Erişimi ve Onay Maili
 Sisteme sızdıktan sonra root yetkisi ile okunan tebrik mesajı.
@@ -72,7 +91,17 @@ Sisteme sızdıktan sonra root yetkisi ile okunan tebrik mesajı.
 ![Root Mail Success]( <img width="370" height="355" alt="image" src="https://github.com/user-attachments/assets/d6655acd-f09a-4b59-abd3-3c08b7aba6e0" />
 )
 
+
+
+
+
+
+
 ---
+
+
+
+
 
 ## ⚠️ Yasal Uyarı
 
